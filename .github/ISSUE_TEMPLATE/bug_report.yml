@@ -1,4 +1,4 @@
-name: "Bug report"
+name: "✅ Registra tu participación en la hackathon"
 description: "Incluye toda la información de tu participación"
 title: "[Participación]: <inserta-aqui-tu-nick-o-nombre>"
 labels: ["registro"]
@@ -52,3 +52,9 @@ body:
   - type: markdown
     attributes:
       value: "## Extra"
+  - type: textarea
+    id: instrucciones-configuracion
+    attributes:
+      label: Instrucciones de Configuración
+      description: Pasos para configurar y ejecutar el proyecto
+      placeholder: "Extensión de Chrome. Instálala siguiendo el README y entra en una página, luego pulsa el icono para que funcione."
