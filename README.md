@@ -13,10 +13,10 @@ Una hackatón es un evento de desarrollo de software donde los participantes tra
 
 ## Premios de la Hackatón
 
-- 🥇 **Primer Lugar:** $500 + Créditos Vercel + Caja de Swag Vercel
-- 🥈 **Segundo Lugar:** $250 + Créditos Vercel + Caja de Swag Vercel
-- 🥉 **Tercer Lugar:** $100 + Créditos Vercel + Caja de Swag Vercel
-- 🎖️ **Menciones Honoríficas:** Créditos Vercel + Caja de Swag Vercel (x2)
+- 🥇 **Primer Lugar:** $500 + Créditos Vercel + Swag Vercel Box
+- 🥈 **Segundo Lugar:** $250 + Créditos Vercel + Swag Vercel Box
+- 🥉 **Tercer Lugar:** $100 + Créditos Vercel + Swag Vercel Box
+- 🎖️ **Menciones Honoríficas:** Créditos Vercel + Swag Vercel Box (x2)
 
 ![Fh9ImwIWYAMdkM-](https://github.com/midudev/hackaton-vercel-2024/assets/1561955/0590602a-20c9-4812-8215-857f4ad02ebb)
 
