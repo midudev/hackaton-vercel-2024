@@ -26,32 +26,28 @@ body:
     attributes:
       label: Escribe tu nombre o el del equipo
       placeholder: midudev
-      required: true
   - type: input
     id: nombre-proyecto
     attributes:
       label: Nombre del Proyecto
       placeholder: Mi impresionante proyecto
-      required: true
   - type: textarea
     id: descripcion-proyecto
     attributes:
       label: Descripción del Proyecto
       description: Breve descripción de lo que hace tu proyecto
       placeholder: Mi proyecto te permite recuperar el ALT de las imágenes...
-      required: true
   - type: input
     id: repositorio-codigo
     attributes:
       label: Repositorio de Código
       description: Enlace al repositorio del proyecto (GitHub, GitLab, etc.)
       placeholder: https://github.com/tu-proyecto
-      required: true
   - type: input
     id: demostracion-vivo
     attributes:
       label: Proyecto desplegado
-      description: "Enlace a la demostración del proyecto, si aplica."
+      description: Enlace a la demostración del proyecto, si aplica
       placeholder: https://tu-demostracion.com
   - type: markdown
     attributes:
