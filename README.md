@@ -14,11 +14,11 @@ La idea es que los participantes aprendan a trabajar en equipo y a resolver prob
 
 ## Premios de la Hackatón
 
-🥇 $500 + Vercel Credits + Swag Vercel Box
-🥈 $250 + Vercel Credits + Swag Vercel Box
-🥉 $100 + Vercel Credits + Swag Vercel Box
-🎖️ Vercel Credits + Swag Vercel Box
-🎖️ Vercel Credits + Swag Vercel Box
+- 🥇 $500 + Vercel Credits + Swag Vercel Box
+- 🥈 $250 + Vercel Credits + Swag Vercel Box
+- 🥉 $100 + Vercel Credits + Swag Vercel Box
+- 🎖️ Vercel Credits + Swag Vercel Box
+- 🎖️ Vercel Credits + Swag Vercel Box
 
 El pago de la hackatón se hace por PayPal o similares.
 
