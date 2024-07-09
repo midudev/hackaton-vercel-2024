@@ -7,17 +7,18 @@
 
 - [Cómo participar en la Hackatón](#cómo-participar-en-la-hackatón)
   - [¿Qué es una Hackatón?](#qué-es-una-hackatón)
-- [🎁 Premios de la Hackatón](#-premios-de-la-hackatón)
+  - [🎁 Premios de la Hackatón](#-premios-de-la-hackatón)
 - [Sorteo entre los que participan](#sorteo-entre-los-que-participan)
 - [Fechas](#fechas)
-- [Templates disponibles para empezar](#templates-disponibles-para-empezar)
-- [💬 Preguntas frecuentes](#-preguntas-frecuentes)
+  - [Templates disponibles para empezar](#templates-disponibles-para-empezar)
+  - [💬 Preguntas frecuentes](#-preguntas-frecuentes)
 </details>
 
 # Cómo participar en la Hackatón
 
 Para participar debes crear un proyecto que use [Vercel SDK AI](https://sdk.vercel.ai/docs/introduction).
-Puedes usar el framework que quieras y desplegar tu proyecto donde prefieras.
+
+**Puedes usar el framework que quieras** y desplegar tu proyecto donde prefieras.
 
 Una vez tengas el **proyecto listo**, debes introducir la información de tu proyecto aquí:
 
