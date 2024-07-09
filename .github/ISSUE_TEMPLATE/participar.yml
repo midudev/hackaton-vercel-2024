@@ -36,4 +36,4 @@ body:
     attributes:
       label: Instrucciones de Configuración
       description: Pasos para configurar y ejecutar el proyecto
-      placeholder: Extensión de Chrome. Instalala siguiendo el README y entra en una página, luego pulsa el icono para que funcione.
+      placeholder: "Extensión de Chrome. Instálala siguiendo el README y entra en una página, luego pulsa el icono para que funcione."

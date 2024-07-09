@@ -11,12 +11,12 @@ body:
     attributes:
       label: Señala los requisitos cumplidos
       description: |
-        Asegúrate de cumplir estos requisitos antes de reportar un problema
+        Asegúrate de cumplir estos requisitos antes de registrarte
       options:
-        - label: Estoy corriendo la última versión.
+        - label: Mi aplicación usa Vercel SDK AI de alguna forma
           required: true
         - label: |
-            He revisado si ya hay un issue creado con características similares.
+            Mi aplicación está desplegada y funciona
           required: true
   - type: markdown
     attributes:
