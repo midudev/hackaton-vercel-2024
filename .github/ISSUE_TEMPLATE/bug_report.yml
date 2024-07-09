@@ -1,6 +1,6 @@
-name: Registro Hackathon Vercel
-description: "Regístrate para la Hackathon con más de $1000 en premios"
-title: "[Participación]: "
+name: Registrate
+description: Registra tu participacion en la hackathon
+title: "[Bug]: "
 labels: ["bug"]
 body:
   - type: markdown
