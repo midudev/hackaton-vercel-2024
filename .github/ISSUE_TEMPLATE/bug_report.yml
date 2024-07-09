@@ -37,62 +37,18 @@ body:
       label: Descripción del Proyecto
       description: Breve descripción de lo que hace tu proyecto
       placeholder: Mi proyecto te permite recuperar el ALT de las imágenes...
-  - type: textarea
-    id: informacion-bug
-    attributes:
-      label: Información del bug
-      description: Aporta información sobre el bug
-      placeholder: Este bug ocurre cuando ...
-  - type: textarea
-    id: pasos-reproducir
-    attributes:
-      label: Pasos para reproducirlo
-      description: Pasos necesarios para reproducir el bug
-      placeholder: |
-        1. Paso1
-        2. Paso2
-  - type: markdown
-    attributes:
-      value: "# Contexto"
-  - type: dropdown
-    id: navegadores
-    attributes:
-      label: ¿En qué navegadores encuentras el problema?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
-        - Opera
-        - Todos los navegadores
   - type: input
-    id: version-navegador
+    id: repositorio-codigo
     attributes:
-      label: Versión del navegador
-      description: Versión del navegador en el cuál encuentras el problema
-      placeholder: Chrome v124.0.6367.92 ...
-  - type: dropdown
-    id: sistema-operativo
+      label: Repositorio de Código
+      description: Enlace al repositorio del proyecto (GitHub, GitLab, etc.)
+      placeholder: https://github.com/tu-proyecto
+  - type: input
+    id: demostracion-vivo
     attributes:
-      label: Sistema operativo
-      description: Sistema operativo en el cuál encuentras el problema
-      multiple: true
-      options:
-        - Windows
-        - MacOS
-        - Linux
-        - Android
-        - Todos los sistemas
+      label: Proyecto desplegado
+      description: Enlace a la demostración del proyecto, si aplica
+      placeholder: https://tu-demostracion.com
   - type: markdown
     attributes:
-      value: "# Información adicional"
-  - type: textarea
-    attributes:
-      label: Añade información adicional si fuese necesario
-      description: Imágenes, link del código, fragmento de código ...
-      placeholder: |
-        ```typescript
-        const variable = "..."
-        ```
-        ...
+      value: "## Extra"
