@@ -1,7 +1,7 @@
-name: Reportar problema
-description: Reporta un problema
-title: "[Bug]: "
-labels: ["bug"]
+name: Registro Hackathon Vercel
+description: Regístrate para la Hackathon con más de $1000 en premios
+title: "[Participación]: "
+labels: ["registro"]
 body:
   - type: markdown
     attributes:
