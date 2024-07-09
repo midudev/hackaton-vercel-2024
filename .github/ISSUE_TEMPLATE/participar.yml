@@ -1,0 +1,39 @@
+name: Registro Hackathon Vercel
+description: Regístrate para la Hackathon con más de $1000 en premios
+title: "[Participación]: "
+labels: ["hackathon", "vercel", "registro"]
+body:
+  - type: input
+    id: nombre-equipo
+    attributes:
+      label: Nombre del Equipo
+      placeholder: Escribe el nombre de tu equipo
+  - type: input
+    id: nombre-proyecto
+    attributes:
+      label: Nombre del Proyecto
+      placeholder: Escribe el nombre de tu proyecto
+  - type: textarea
+    id: descripcion-proyecto
+    attributes:
+      label: Descripción del Proyecto
+      description: Breve descripción de lo que hace tu proyecto
+      placeholder: Mi proyecto te permite recuperar el ALT de las imágenes...
+  - type: input
+    id: repositorio-codigo
+    attributes:
+      label: Repositorio de Código
+      description: Enlace al repositorio del proyecto (GitHub, GitLab, etc.)
+      placeholder: https://github.com/tu-proyecto
+  - type: input
+    id: demostracion-vivo
+    attributes:
+      label: Proyecto desplegado
+      description: Enlace a la demostración del proyecto, si aplica
+      placeholder: https://tu-demostracion.com
+  - type: markdown
+    id: instrucciones-configuracion
+    attributes:
+      label: Instrucciones de Configuración
+      description: Pasos para configurar y ejecutar el proyecto
+      placeholder: Extensión de Chrome. Instalala siguiendo el README y entra en una página, luego pulsa el icono para que funcione.
