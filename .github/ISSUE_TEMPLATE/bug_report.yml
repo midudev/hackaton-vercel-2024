@@ -51,9 +51,8 @@ body:
     id: demostracion-vivo
     attributes:
       label: Proyecto desplegado
-      description: "Enlace a la demostración del proyecto. Si no aplica, escribe: 'No aplica'"
+      description: "Enlace a la demostración del proyecto, si aplica."
       placeholder: https://tu-demostracion.com
-      required: true
   - type: markdown
     attributes:
       value: "## Extra"
