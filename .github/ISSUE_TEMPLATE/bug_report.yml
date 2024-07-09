@@ -18,9 +18,11 @@ body:
         - label: |
             Mi aplicación está desplegada y funciona
           required: true
-  - type: markdown
+  - type: input
+    id: nombre-equipo
     attributes:
-      value: "# Comportamiento"
+      label: Nombre del Equipo
+      placeholder: Escribe el nombre de tu equipo
   - type: textarea
     id: comportamiento-esperado
     attributes:
