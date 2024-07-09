@@ -1,3 +1,4 @@
+
 # Cómo participar en la Hackatón
 
 Para participar debes crear un proyecto que use Vercel SDK AI. Puedes usar el framework que quieras y desplegar tu proyecto donde prefieras.
@@ -19,6 +20,8 @@ La idea es que los participantes aprendan a trabajar en equipo y a resolver prob
 - 🥉 $100 + Vercel Credits + Swag Vercel Box
 - 🎖️ Vercel Credits + Swag Vercel Box
 - 🎖️ Vercel Credits + Swag Vercel Box
+
+![Fh9ImwIWYAMdkM-](https://github.com/midudev/hackaton-vercel-2024/assets/1561955/0590602a-20c9-4812-8215-857f4ad02ebb)
 
 El pago de la hackatón se hace por PayPal o similares.
 
