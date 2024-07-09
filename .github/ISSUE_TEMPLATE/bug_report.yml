@@ -1,7 +1,7 @@
-name: Registro Hackathon Vercel
+name: Reportar problema
 description: Reporta un problema
-title: "[Participación]: "
-labels: ["registro"]
+title: "[Bug]: "
+labels: ["bug"]
 body:
   - type: markdown
     attributes:
