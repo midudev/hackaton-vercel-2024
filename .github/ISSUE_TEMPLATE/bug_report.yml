@@ -1,7 +1,7 @@
 name: "✅ Registra tu participación en la hackathon"
 description: "Incluye toda la información de tu participación"
-title: "[Participación]: "
-labels: ["bug"]
+title: "[Participación]: <inserta-aqui-tu-nick-o-nombre>"
+labels: ["registro"]
 body:
   - type: markdown
     attributes:
